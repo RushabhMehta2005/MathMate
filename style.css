@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    background-color: #678ae0;
+    font-size: 2rem;
+    font-family: Montserrat;
+}
+
+.container {
+    background-color: rgb(10, 9, 17);
+    color:white;
+    border-radius: 5px;
+    margin-top: 8rem;
+    width: 550px;
+    height: 400px;
+}
+
+.row {
+    margin-bottom: 10px;
+}
+
+.btn {
+    width: 60px;
+    text-align: center;
+}
+
+input:focus{
+    outline: none;
+}
